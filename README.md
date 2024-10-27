@@ -66,4 +66,6 @@ Cette démo sert de point de départ de base pour la construction d'un système 
 
 ## Démonstration
 
+La démonstration suivante montre le comportement de l'application et ses différentes fonctionnalités
 
+https://github.com/user-attachments/assets/0c7ceb8a-8f3f-47ee-8056-67c4f13abfbd
