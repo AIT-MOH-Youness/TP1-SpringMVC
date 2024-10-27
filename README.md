@@ -66,7 +66,7 @@ Ce projet est une démonstration simple de la création d'une application basiqu
     * Cryptage du mot de passe.
     * Règles de validation plus complexes.
 
-Cette démo sert de point de départ de base pour la construction d'un système de gestion d'utilisateurs avec Spring Boot et Thymeleaf. N'hésitez pas à le personnaliser et à l'étendre pour répondre à vos besoins spécifiques.
+Cette démo sert de point de départ de base pour la construction d'un système de gestion d'utilisateurs avec Spring Boot et Thymeleaf.
 
 ## Démonstration
 
