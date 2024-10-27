@@ -1,7 +1,7 @@
 # TP1-SpringMVC
-# Démo de gestion d'utilisateurs Spring Boot Thymeleaf
+# Démonstration de gestion d'utilisateurs à l'aide de Spring Boot Thymeleaf
 
-Ce projet est une démonstration simple de la création d'une application de gestion d'utilisateurs de base utilisant Spring Boot, Thymeleaf et Spring Data JPA. Il vous permet de créer, modifier et supprimer des enregistrements d'utilisateurs.
+Ce projet est une démonstration simple de la création d'une application basique de gestion d'utilisateurs de base utilisant Spring Boot, Thymeleaf et Spring Data JPA. Il vous permet de créer, modifier et supprimer des enregistrements d'utilisateurs.
 
 ## Fonctionnalités
 
