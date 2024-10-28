@@ -26,7 +26,7 @@ Ce projet est une démonstration simple de la création d'une application basiqu
 3. **Configuration de la base de données:** Créez une base de données MySQL et mettez à jour les informations de connexion dans le fichier `application.properties`.
 
 4. **Exécutez l'application:** Utilisez la commande
-5. ```bash
+    ```bash
     mvn spring-boot:run
     ```
    pour démarrer l'application.
